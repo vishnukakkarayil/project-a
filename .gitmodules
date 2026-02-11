@@ -1,0 +1,3 @@
+[submodule "shared/base-screens"]
+	path = shared/base-screens
+	url = git@github.com:vishnukakkarayil/base_screens.git
